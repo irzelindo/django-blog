@@ -28,7 +28,7 @@ SECRET_KEY = config['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['45.33.112.113']
+ALLOWED_HOSTS = ['www.paponice.com','45.33.112.113']
 
 
 # Application definition
